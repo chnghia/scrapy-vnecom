@@ -17,6 +17,7 @@ NEWSPIDER_MODULE = 'vnecom.spiders'
 
 # Crawl responsibly by identifying yourself (and your website) on the user-agent
 #USER_AGENT = 'vnecom (+http://www.yourdomain.com)'
+USER_AGENT = 'Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1)'
 
 # Obey robots.txt rules
 ROBOTSTXT_OBEY = True
